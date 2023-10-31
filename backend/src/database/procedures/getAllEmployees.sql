@@ -1,0 +1,6 @@
+-- use Employee_management
+-- create or alter procedure  fetchAllEmployees
+-- as
+-- BEGIN
+--      select * from Employees
+-- end

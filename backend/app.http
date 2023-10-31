@@ -1,0 +1,30 @@
+POST http://localhost:4500/employee/register
+Content-Type: application/json
+
+{
+
+    "name":"Michael Njeso",
+    "email":"michealvenum007@gmail.com",
+    "phone_no":"0703142446",
+    "id_no":"379226",
+    "password":"1738"
+
+}
+
+###
+POST http://localhost:4500/employee/login
+Content-Type: application/json
+
+{
+    "email":"steve.ondieki@thejitu.com",
+    "password":"12345679"
+
+}
+
+
+###
+# # get allEmployees
+# get http://localhost:4500/employee/
+
+
+
